@@ -13,5 +13,7 @@ public class Helloworld{
 		System.out.println("After addition :"+res1); 
 		System.out.println("After addition :"+res2); 
 		System.out.println("After addition :"+res4);
+		System.out.println("Project completed");
+		System.out.println("Project terminated");
 	}
 }
