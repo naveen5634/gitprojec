@@ -6,9 +6,10 @@ public class Helloworld{
 		int x= s.nextInt();
 		int y= s.nextInt();
 		res = x + y;
+		res1 = x / y;
+		res2 = x*y ;
 		System.out.println("After addition :"+res); 
+		System.out.println("After addition :"+res1); 
+		System.out.println("After addition :"+res2); 
 	}
 }
-
-
-
